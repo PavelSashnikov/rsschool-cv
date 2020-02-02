@@ -9,3 +9,15 @@
 ### Education:
 - SkillUp (front-end development) 2018 - 2019
 - Rolling Scopes School(RS2019-Q3)
+
+### Skills:
+1. __JS__
+    - ES5
+    - ES6
+2. __HTML5__
+3. __CSS3__
+    - SASS (SCSS)
+    - LESS
+4. Version control: __GIT__
+5. Frameworks: __Angular__
+6. Methodologies: __BEM, mobile first, perfect pixel__
