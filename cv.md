@@ -24,3 +24,11 @@
 
 ### Code examples:
  - [Weather](http://aggressive-person.surge.sh/)
+
+ I was always very interested in the IT and I began to study it on my own about year and a half ago for my pleasure. After year of independent practice and self-training, I came to the conclusion that I want to develop and work in this direction. Self-education has one negative point - there is no mentor with whom you can discuss and clarify complicated issues, so to fill in the gaps and improve the skill, I enrolled in Front-End courses. I structured the acquired knowledge in the process of training in the courses and outlined for myself the further development paths.
+I have no production experience, however you can find some of my pet projects on [my github account](https://github.com/PavelSashnikov).
+Lately, my main activity in my free time is to complete tasks on [codewars.com](https://www.codewars.com/users/Faust12).
+
+My goal is to work in a team of cool specialists, improove my level and learn something new every day. I am not afraid of difficult and interesting tasks, they always motivated me and investments in my development always pay off.
+
+My level of English is A2+, whenever possible I try to practice and improve the level.
