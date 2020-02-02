@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(218, 16, 16);
+    transition: 0.5s linear;
+}
+a:hover {
+    color: rgb(85, 6, 6);
+}
+
+.flex {
+    display: flex;
+}
+.flex .left {
+    flex-basis: 30%;
+}
+
+img {
+    width: 250px;
+    border-radius: 50%;
+}
+header,
+.about,
+.skills {
+    margin-top: 20px;
+}
+.header-main,
+.about-main,
+.skills-main {
+    flex-basis: 70%;
+    text-align: justify;
+    text-indent: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    line-height: 2em;
+    color: rgb(245, 182, 9);
+}
+
+.header-main__vacancy {
+    font-size: 1.5em;
+    color: #ccc;
+}
+
+.header-main__contacts {
+    margin-top: 25px;
+    font-size: 0.9em;
+    justify-content: space-between;
+    text-align: center;
+}
+.header-main__contacts p,
+.left p,
+.skills-main p {
+    font-weight: 600;
+    line-height: 1.5em;
+}
+
+.left p {
+    font-size: 1.5em;
+    color: black;
+}
+.left {
+    color: #ccc;
+    text-align: right;
+    padding-right: 40px;
+}
+
+.skills-main div {
+    flex-basis: 30%;
+}
